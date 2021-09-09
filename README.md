@@ -1,4 +1,9 @@
 Dashboard for analysis of Stock OCHL. It helps analyse market sentiment of a particular stock. The report for the same has been represented in the form of charts.
+##Looks
+![Screenshot](https://user-images.githubusercontent.com/59207745/132656983-47519e52-e463-4732-b1e6-8cc9aafe14b0.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/59207745/132657010-f4003490-f108-4456-af1c-dcd0de7a6f94.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/59207745/132657039-3afc272c-2070-45d1-b55f-c470260591ed.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/59207745/132657060-2c067ebf-c7e3-4ac1-9bb8-488d9bbc508b.png)
 
 
 
